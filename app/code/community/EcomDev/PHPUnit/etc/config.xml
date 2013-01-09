@@ -84,8 +84,9 @@
                     <config>ecomdev_phpunit/fixture_processor_config</config>
                     <config_xml>ecomdev_phpunit/fixture_processor_config</config_xml>
                     <cache_options>ecomdev_phpunit/fixture_processor_cache</cache_options>
-                    <eav>ecomdev_phpunit/fixture_processor_eav</eav>
                     <tables>ecomdev_phpunit/fixture_processor_tables</tables>
+                    <eav>ecomdev_phpunit/fixture_processor_eav</eav>
+                    <tables2>ecomdev_phpunit/fixture_processor_tables2</tables2>
                     <vfs>ecomdev_phpunit/fixture_processor_vfs</vfs>
                 </processors>
 	            <attribute>
