@@ -51,7 +51,7 @@ class EcomDev_PHPUnit_Test_Suite_Group extends PHPUnit_Framework_TestSuite
         );
 
         if (isset($annotations['name'])) {
-            $this->suiteName = $annotations['name'];
+            $this->suiteName = $annotations['name'] . Mage::getVersion();
         }
 
         // Creates all test instances
