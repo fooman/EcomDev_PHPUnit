@@ -1,6 +1,3 @@
-config:
-  default/dev/log/active: 1
-  default/dev/log/exception_file: tests-exception.log
 vfs:
   fixtures:
     update-existing.yaml: >
