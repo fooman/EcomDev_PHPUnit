@@ -95,6 +95,7 @@
                     <config_xml>ecomdev_phpunit/fixture_processor_config</config_xml>
                     <cache_options>ecomdev_phpunit/fixture_processor_cache</cache_options>
                     <entity_type>ecomdev_phpunit/fixture_processor_entityType</entity_type>
+                    <attribute_set>ecomdev_phpunit/fixture_processor_attributeSet</attribute_set>
                     <attributes>ecomdev_phpunit/fixture_processor_attributes</attributes>
                     <eav>ecomdev_phpunit/fixture_processor_eav</eav>
                     <tables>ecomdev_phpunit/fixture_processor_tables</tables>
